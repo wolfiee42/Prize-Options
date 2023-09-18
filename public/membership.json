@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 29.99,
+    "description": "Perfect for beginners and those looking casual gym-goers.",
+    "features": [
+      "Access to cardio equipment",
+      "Basic weight lifting area",
+      "Locker room access",
+      "Fitness classes available",
+      "Personalized workout plan"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 49.99,
+    "description": "Ideal for those looking for more variety and options.",
+    "features": [
+      "Access to all gym facilities",
+      "Advanced weight lifting area",
+      "Indoor pool and sauna",
+      "Unlimited fitness classes",
+      "Personal trainer sessions",
+      "Nutrition consultation"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Family Membership",
+    "price": 89.99,
+    "description": "Perfect for those looking families who want to stay fit together.",
+    "features": [
+      "Access for 2 adults and 2 children",
+      "All Premium Membership features",
+      "Childcare services",
+      "Family fitness classes"
+    ]
+  }
+]
